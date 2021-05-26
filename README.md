@@ -1,6 +1,6 @@
 # Followbot
 The simulation was done in gazebo. 
-The bot that keeps on following the yellow path until it encounters a blue path.
+The bot keeps on following the yellow path until it encounters a blue path.
 
 https://user-images.githubusercontent.com/61026273/119612106-23dbcf80-be19-11eb-9fbc-ca2e04370776.mp4
 
